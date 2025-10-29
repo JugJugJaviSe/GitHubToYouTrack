@@ -1,0 +1,15 @@
+# Environment file
+.env
+
+# Build outputs
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Rider / JetBrains
+.idea/
+*.iml

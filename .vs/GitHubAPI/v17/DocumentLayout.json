@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jugov\\Documents\\prog\\Prakse\\JetBrains\\GitHubAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC74B2A-7FF7-4920-A338-D14BF3309F03}|GitHubAPI\\GitHubAPI.csproj|c:\\users\\jugov\\documents\\prog\\prakse\\jetbrains\\githubapi\\githubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC74B2A-7FF7-4920-A338-D14BF3309F03}|GitHubAPI\\GitHubAPI.csproj|solutionrelative:githubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jugov\\Documents\\prog\\Prakse\\JetBrains\\GitHubAPI\\GitHubAPI\\Program.cs",
+              "RelativeDocumentMoniker": "GitHubAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\jugov\\Documents\\prog\\Prakse\\JetBrains\\GitHubAPI\\GitHubAPI\\Program.cs",
+              "RelativeToolTip": "GitHubAPI\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T21:12:27.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
