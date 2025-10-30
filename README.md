@@ -66,3 +66,6 @@ If no changes are detected, it prints: No changes in this iteration!
 Errors are caught and displayed; the program waits 30 seconds before retrying.
 
 New GitHub issues created while the program is running will automatically be added to YouTrack in the next iteration.
+
+Watch the demo on Google Drive:
+https://drive.google.com/file/d/16OU2yKlK73-Miwzy93zDNFhrhZ3mWuLw/view?usp=drive_link
