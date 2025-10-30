@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6FC74B2A-7FF7-4920-A338-D14BF3309F03}|GitHubAPI\\GitHubAPI.csproj|c:\\users\\jugov\\documents\\prog\\prakse\\jetbrains\\githubapi\\githubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FC74B2A-7FF7-4920-A338-D14BF3309F03}|GitHubAPI\\GitHubAPI.csproj|solutionrelative:githubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FC74B2A-7FF7-4920-A338-D14BF3309F03}|GitHubAPI\\GitHubAPI.csproj|c:\\users\\jugov\\documents\\prog\\prakse\\jetbrains\\githubapi\\githubapi\\models\\issuewithrawfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FC74B2A-7FF7-4920-A338-D14BF3309F03}|GitHubAPI\\GitHubAPI.csproj|solutionrelative:githubapi\\models\\issuewithrawfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 209,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IssueWithRawFields.cs",
-              "DocumentMoniker": "C:\\Users\\jugov\\Documents\\prog\\Prakse\\JetBrains\\GitHubAPI\\GitHubAPI\\Models\\IssueWithRawFields.cs",
-              "RelativeDocumentMoniker": "GitHubAPI\\Models\\IssueWithRawFields.cs",
-              "ToolTip": "C:\\Users\\jugov\\Documents\\prog\\Prakse\\JetBrains\\GitHubAPI\\GitHubAPI\\Models\\IssueWithRawFields.cs",
-              "RelativeToolTip": "GitHubAPI\\Models\\IssueWithRawFields.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T23:55:58.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jugov\\Documents\\prog\\Prakse\\JetBrains\\GitHubAPI\\GitHubAPI\\Program.cs",
               "RelativeDocumentMoniker": "GitHubAPI\\Program.cs",
               "ToolTip": "C:\\Users\\jugov\\Documents\\prog\\Prakse\\JetBrains\\GitHubAPI\\GitHubAPI\\Program.cs",
               "RelativeToolTip": "GitHubAPI\\Program.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAASwHcAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T21:12:27.109Z",
+              "WhenOpened": "2025-10-30T15:24:54.17Z",
               "EditorCaption": ""
             }
           ]
