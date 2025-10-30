@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace GitHubAPI.Models
 {
-    public class CustomField
+    public class CustomTypedField
     {
         [JsonPropertyName("$type")]
         public string Type { get; set; } = "SingleEnumIssueCustomField";
@@ -16,6 +16,6 @@ namespace GitHubAPI.Models
         public string Name { get; set; }
 
         [JsonPropertyName("value")]
-        public FieldValue Value { get; set; }
+        public object? Value { get; set; }
     }
 }

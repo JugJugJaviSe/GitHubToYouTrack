@@ -7,10 +7,13 @@ using System.Threading.Tasks;
 
 namespace GitHubAPI.Models
 {
-    public class Issue
+    public class IssueWithTypedFields
     {
         [JsonPropertyName("$type")]
         public string Type { get; set; } = "Issue";
+
+        [JsonPropertyName("idReadable")]
+        public string IdReadable { get; set; }
 
         [JsonPropertyName("project")]
         public ProjectRef Project { get; set; }
@@ -22,6 +25,6 @@ namespace GitHubAPI.Models
         public string Description { get; set; }
 
         [JsonPropertyName("customFields")]
-        public CustomField[] CustomFields { get; set; }
+        public CustomTypedField[] CustomFields { get; set; }
     }
 }
